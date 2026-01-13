@@ -12,7 +12,7 @@ const topics = [
   { title: "Dons Espirituais", desc: "À luz da Palavra" },
   { title: "Finanças Bíblicas", desc: "Mordomia cristã" },
   { title: "Judaísmo Bíblico", desc: "Raízes da fé cristã" },
-  { title: "Sermões Prontos", desc: "Sermões Prontos" },
+  { title: "Sermões Prontos", desc: "Sermões Prontos para pregação" },
 ];
 
 
