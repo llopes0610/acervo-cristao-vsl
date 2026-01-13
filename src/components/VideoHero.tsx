@@ -17,7 +17,7 @@ export default function VideoHero({
     video.play().catch(() => {});
 
     const handleTimeUpdate = () => {
-      if (video.currentTime >= 60 && !unlockedRef.current) {
+      if (video.currentTime >= 20 && !unlockedRef.current) {
         unlockedRef.current = true;
         onUnlock();
       }

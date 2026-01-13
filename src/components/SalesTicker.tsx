@@ -3,13 +3,36 @@
 import { useEffect, useState } from "react";
 
 const buyers = [
-  "João S.",
+"João S.",
   "Maria A.",
   "Carlos R.",
   "Ana P.",
   "Lucas M.",
   "Rafael C.",
   "Fernanda L.",
+  "Pedro T.",
+  "Juliana F.",
+  "Marcos B.",
+  "Patrícia G.",
+  "Renato D.",
+  "Camila H.",
+  "Bruno N.",
+  "Aline V.",
+  "Diego O.",
+  "Larissa E.",
+  "Felipe K.",
+  "Vanessa M.",
+  "Eduardo J.",
+  "Natália C.",
+  "Gustavo R.",
+  "Paula S.",
+  "André P.",
+  "Beatriz L.",
+  "Thiago A.",
+  "Carolina F.",
+  "Rodrigo H.",
+  "Daniela T.",
+  "Victor W.",
 ];
 
 export default function SalesTicker() {
