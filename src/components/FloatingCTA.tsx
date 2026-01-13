@@ -11,7 +11,7 @@ export default function FloatingCTA({ visible }: FloatingCTAProps) {
     <div className="fixed bottom-0 left-0 right-0 z-50 md:hidden">
       <div className="bg-black/90 backdrop-blur border-t border-zinc-800 px-4 py-3">
         <a
-          href="LINK_DE_COMPRA_AQUI"
+          href="https://mpago.la/27XMkQo"
           className="
             block
             w-full
