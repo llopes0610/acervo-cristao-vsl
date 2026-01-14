@@ -25,10 +25,10 @@ export default function Footer() {
         <p className="text-xs">
           Dúvidas ou suporte:{" "}
           <a
-            href="mailto:contato@seusite.com"
+            href="mailto:llopes3025@gmail.com"
             className="underline hover:text-white"
           >
-            contato@seusite.com
+            llopes3025@gmail.com
           </a>
         </p>
 
